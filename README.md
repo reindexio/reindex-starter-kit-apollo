@@ -18,10 +18,10 @@ routes.
     Open GraphiQL console
 
     ```sh
-    reindex grapihql
+    reindex graphiql
     ```
 
-    In GraphiQL create ReindexAuthenticationProvider for Auth0.
+    In GraphiQL, create ReindexAuthenticationProvider for Auth0.
 
     ```graphql
     mutation {
